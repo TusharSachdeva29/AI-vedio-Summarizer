@@ -1,0 +1,45 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Media files (optional, remove if you want to track media)
+*.mp4
+*.avi
+*.mov
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Sensitive information
+.env
+secrets.json
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
