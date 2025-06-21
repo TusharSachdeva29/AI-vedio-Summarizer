@@ -1,9 +1,5 @@
 # AI Video Summarizer
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![AI](https://img.shields.io/badge/AI-Powered-green.svg)](#)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
-
 ## Project Overview
 This is an AI-powered Video Summarization application that leverages advanced natural language processing techniques to generate concise summaries of video content.
 
@@ -51,6 +47,3 @@ python app.py
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
