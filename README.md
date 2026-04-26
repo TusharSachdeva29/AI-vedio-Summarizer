@@ -16,7 +16,7 @@ This is an AI-powered Video Summarization application that leverages advanced na
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/LohiyaH/video-summarizer.git
+git clone https://github.com/TusharSachdeva29/AI-vedio-Summarizer.git
 cd video-summarizer
 ```
 
